@@ -27,13 +27,21 @@ This project is a machine learning-based web application developed to detect fra
 fraud-detection-ecommerce-ml/
 │
 ├── model/
+
 ├── static/
+
 ├── templates/
+
 ├── test_data/
+
 ├── model_training.ipynb
+
 ├── app.py
+
 ├── requirements.txt
+
 └── README.md
+
 
 ## How to Run
 
