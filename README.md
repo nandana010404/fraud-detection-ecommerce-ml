@@ -60,5 +60,3 @@ python app.py
 - Database connectivity
 - Deployment to cloud platform
 
-## Author
-Nandana N
