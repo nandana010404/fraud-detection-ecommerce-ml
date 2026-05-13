@@ -26,6 +26,7 @@ This project is a machine learning-based web application developed to detect fra
 
 fraud-detection-ecommerce-ml/
 │
+
 ├── model/
 
 ├── static/
